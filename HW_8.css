@@ -1,0 +1,39 @@
+body {
+	background-image: url('http://www.barkclothhawaii.com/fabrics/oa/oa14tapalolo.png');
+	text-align: center;
+	font-family: "Arial Black";
+	color: #800000;
+}
+
+header {
+	width: 99%;
+	height: auto;
+	background: #ffffff;
+	border: 3px solid #993300;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+img {
+	max-height: 200px;
+	max-width: 150px;
+}
+
+.info {
+	width: 100%;
+	height: auto;
+	background: #ffffff;
+	border: 3px solid #993300;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	padding: 5px;
+}
+
+footer {
+	width: 99;
+	height: auto;
+	background: #ffffff;
+	border: 3px solid #993300;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
